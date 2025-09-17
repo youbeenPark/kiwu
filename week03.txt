@@ -1,6 +1,8 @@
 리눅스 명령어
 clear
 mkdir : 폴더 만들기
+rm 폴더명 또는 폴더이름 : 폴더 삭제
+rm -rf 폴더명 또는 파일명 : 폴더 강제 삭제
 
 깃 명령어
 git clone 원격리포지토리주소 : 복제본 생성
@@ -8,3 +10,6 @@ git clone 원격리포지토리주소 . : 현재 폴더에 복제본 생성
 git log --online :  한줄로 로그 약식 표현
 git remote -v : 현재 origin 주소 확인 명령어
 git remote remove origin : 현재 origin 주소 삭제 명령어
+
+git fetch : 원격지에 변경된 내용 확인
+git pull : 원격의 변경된 데이터 확인 및 최신 데이터 복사하여 로컬에 가져옴  
