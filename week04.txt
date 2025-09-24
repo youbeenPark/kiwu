@@ -1,9 +1,11 @@
 리눅스 명령어
 cp 원본파일 복사본파일 : 원본파일 기반 복사본 파일 만듦 
 rm 파일명 : 파일 삭제 
-
+touch 파일명1 파일명2 파일명3 : 동시에 여러 파일 생성
 
 깃 명령어
 git log --oneline --graph(= git log --graph --oneline)
 
+기타
+.gitignore : 깃허브에서 관리안할 파일명 
 
