@@ -4,4 +4,6 @@ rm 파일명 : 파일 삭제
 
 
 깃 명령어
-git log --oneline --graph
+git log --oneline --graph(= git log --graph --oneline)
+
+
