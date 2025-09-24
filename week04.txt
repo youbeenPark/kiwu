@@ -5,6 +5,8 @@ touch 파일명1 파일명2 파일명3 : 동시에 여러 파일 생성
 
 깃 명령어
 git log --oneline --graph(= git log --graph --oneline)
+git reset --hard HEAD~ 삭제할 커밋 개수 : 완전 삭제
+git push -f origin main : 강제로 푸시
 
 기타
 .gitignore : 깃허브에서 관리안할 파일명 
