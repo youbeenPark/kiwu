@@ -4,3 +4,4 @@ rm 파일명 : 파일 삭제
 
 
 깃 명령어
+git log --graph --oneline
